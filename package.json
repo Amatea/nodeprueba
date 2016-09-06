@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Amatea/nodeprueba/issues"
   },
-  "homepage": "https://github.com/Amatea/nodeprueba"
+  "homepage": "https://github.com/Amatea/nodeprueba",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
